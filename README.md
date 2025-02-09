@@ -18,9 +18,9 @@ Quick and easy setup.
 
 4. Create a .env file in the project directory and add your OpenAI API key: OPENAI_API_KEY=your_openai_api_key_here
 
-5. Place the PDF file you want to query in the specified path (modify main.py if needed).
+5. python3 main.py
 
-6. python3 main.py
+6. Place the PDF file you want to query in the specified path 
 
-7. Enter your questions in the terminal, and get instant responses!
-To exit, type exit.
+7. Enter your questions in the text box, and get instant responses!
+
