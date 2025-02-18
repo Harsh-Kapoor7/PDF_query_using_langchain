@@ -13,7 +13,7 @@ import gradio as gr
 load_dotenv()
 
 # Load OpenAI API key
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+# OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
 
 def load_pdf_text(pdf_path):
